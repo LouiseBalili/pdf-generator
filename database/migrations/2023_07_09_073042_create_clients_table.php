@@ -21,6 +21,7 @@ return new class extends Migration
             $table->date('birth_date');
             $table->decimal('initial_deposit',10,2);
             $table->timestamps();
+            $table->string('email')->unique();
         });
     }
 

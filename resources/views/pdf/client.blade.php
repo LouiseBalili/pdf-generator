@@ -25,11 +25,10 @@
 </head>
 <body>
     <p style="text-align: center; margin-bottom: 18pt">
-        <img src="{{public_path('images/mBank_Logo.jpg')}}" style="width: 200px;" alt=""> <br>
-        {{-- <strong style="font-size: 16pt">MDC Banking, Inc.</strong> <br> --}}
-        #445 Ill Fortune St., Merrycormic <br>
-        Tagbilaran city, Bohol <br>
-        Tel. No.: 555-666-7890, 223-129-9089
+        <img src="{{public_path('images/ublogo.png')}}" style="width: 200px;" alt=""> <br>
+        G/F UnionBank Plaza Bldg, Meralco Avenue corner Onyx St <br>
+        Brgy San Antonio, PASIG <br>
+        Tel. No.: +632-7585-1019, 0917-825-0286
     </p>
 
     <h1>Client Summary</h1>
